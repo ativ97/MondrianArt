@@ -1,0 +1,9 @@
+F:\UIC\Spring 2018\CS 341\proj\MondrianArt\MondrianArt\bin\Debug\MondrianArt.exe.config
+F:\UIC\Spring 2018\CS 341\proj\MondrianArt\MondrianArt\bin\Debug\MondrianArt.XML
+F:\UIC\Spring 2018\CS 341\proj\MondrianArt\MondrianArt\bin\Debug\MondrianArt.exe
+F:\UIC\Spring 2018\CS 341\proj\MondrianArt\MondrianArt\bin\Debug\MondrianArt.pdb
+F:\UIC\Spring 2018\CS 341\proj\MondrianArt\MondrianArt\bin\Debug\FSharp.Core.dll
+F:\UIC\Spring 2018\CS 341\proj\MondrianArt\MondrianArt\bin\Debug\System.ValueTuple.dll
+F:\UIC\Spring 2018\CS 341\proj\MondrianArt\MondrianArt\bin\Debug\FSharp.Core.xml
+F:\UIC\Spring 2018\CS 341\proj\MondrianArt\MondrianArt\obj\Debug\MondrianArt.exe
+F:\UIC\Spring 2018\CS 341\proj\MondrianArt\MondrianArt\obj\Debug\MondrianArt.pdb
